@@ -4,6 +4,7 @@
 <br>
 현재는 앱 개발과 웹 개발을 위주로 공부하고 있으며, 주로 활용하는 언어는 SwiftUI, Flutter, Python입니다. 
 <br>  
+<img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
